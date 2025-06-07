@@ -1,0 +1,1 @@
+[2025-06-07 03:25:25] TG_ID: 8182641796 | REF: ads1 | STATUS: 200 | RESPONSE: {"events_received":1,"messages":[],"fbtrace_id":"A8S-3fuusS_TlIXjjjrCWvk"}
